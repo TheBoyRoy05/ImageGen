@@ -1,5 +1,16 @@
+# Image files
 landscape_imgs/landscapes/*.jpg
+jpg/
+
 __pycache__/
 events.*
-jpg/
+
+# Model checkpoints and large files
+*.ckpt
 *.tgz
+*.pth
+*.pt
+*.h5
+*.pb
+GAN/Models/
+checkpoints/
