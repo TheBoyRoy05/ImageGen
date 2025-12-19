@@ -2,3 +2,4 @@ landscape_imgs/landscapes/*.jpg
 __pycache__/
 events.*
 jpg/
+*.tgz
